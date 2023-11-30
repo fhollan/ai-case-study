@@ -20,7 +20,7 @@ This process is created through a multi-focused solution base found on their web
 
 * When was the company incorporated? 
 
- According to an interview article in BiopharmaDive (2002) the company launched in 2015. [Click here to view the article](https://www.biopharmadive.com/news/alice-zhang-verge-founder-biotechs-CEOs/634836/) . The company CEO Alice Zhang left schooling and created her startup company seeing that there must be a better, faster, and more cost-efficient way to create drugs for patients that can’t wait.   
+ According to an interview article in BiopharmaDive (2022) the company launched in 2015. [Click here to view the article](https://www.biopharmadive.com/news/alice-zhang-verge-founder-biotechs-CEOs/634836/) . The company CEO Alice Zhang left schooling and created her startup company seeing that there must be a better, faster, and more cost-efficient way to create drugs for patients that can’t wait.   
 
   
 
@@ -38,11 +38,9 @@ Alice Zhang- CEO founded her company which was named by Fortune magazine as one 
 
  
 
-The neuroscience field is seeing a decline in interest and investment due to the high cost of production, outdated research, and technology costs.  
+The neuroscience field is seeing a decline in interest and investment due to the high cost of production, outdated research, and technology costs.  This is despite the ever-growing population of patients and healthcare cost of neuro diseases. According to an article in Managed HealthCare Executive Alzheimer's Disease is to reach the top 10 most costly medical conditions in 10 years, finding that by 2050 nearly 14 million are expected to have Alzheimer’s with today’s cost of $186 billion and 5 million Americans effected, these costs will skyrocket. [Click here to view article.](https://www.managedhealthcareexecutive.com/view/what-will-be-most-costly-medical-conditions-10-years) 
 
-This is despite the ever-growing population of patients and healthcare cost of neuro diseases. According to an article in Managed HealthCare Executive Alzheimer's Disease is to reach the top 10 most costly medical conditions in 10 years, finding that by 2050 nearly 14 million are expected to have Alzheimer’s with today’s cost of $186 billion and 5 million Americans effected, these costs will skyrocket. Click here to view article. 
-
-According to an article in CellPress (2004) several large pharmaceutical companies have downsized their neuroscience research divisions due to the time and cost of developing drugs in consideration to other therapeutic areas. Click here to view CellPress article. 
+According to an article in CellPress (2004) several large pharmaceutical companies have downsized their neuroscience research divisions due to the time and cost of developing drugs in consideration to other therapeutic areas. [Click here to view CellPress article.]( https://www.cell.com/neuron/pdf/S0896-6273(14)00947-7.pdf)
 
   
 
@@ -50,11 +48,11 @@ According to an article in CellPress (2004) several large pharmaceutical compani
 
  
 
-According to an article in Biospace the company, “Founded in 2015 by CEO Alice Zhang, we’ve raised $32 million in Series A financing to build a next-generation biopharmaceutical company focused on accelerating development of life-saving treatments for patients with neurodegenerative diseases, including ALS, Parkinson’s Disease, and Alzheimer’s Disease.” Click here to view Biospace article.   
+According to an article in Biospace the company, “Founded in 2015 by CEO Alice Zhang, we’ve raised $32 million in Series A financing to build a next-generation biopharmaceutical company focused on accelerating development of life-saving treatments for patients with neurodegenerative diseases, including ALS, Parkinson’s Disease, and Alzheimer’s Disease.” [Click here to view Biospace article.]( https://www.biospace.com/employer/1925910/verge-genomics/%20)  
 
   
 
-Verge’s business partners are Alexion, AstraZeneca, Eli Lilly, Sheffield Institute for Translation Neuroscience. Investors of BlackRock, Threshold, Global Health Innovation, Section 32, Lilly, ALS Investment Fund, iao Capital Partners, Vulcan Capital, PWuXi AppTec, Agent Capital, OS Fund, Y Combinator. Click here to view Verge-Partnership. 
+Verge’s business partners are Alexion, AstraZeneca, Eli Lilly, Sheffield Institute for Translation Neuroscience. Investors of BlackRock, Threshold, Global Health Innovation, Section 32, Lilly, ALS Investment Fund, iao Capital Partners, Vulcan Capital, PWuXi AppTec, Agent Capital, OS Fund, Y Combinator. [Click here to view Verge-Partnership.](https://www.vergegenomics.com/partnerships)
 
 ## Business Activities  
 
@@ -64,23 +62,24 @@ Verge’s business partners are Alexion, AstraZeneca, Eli Lilly, Sheffield Insti
 
  
 
-There are three solutions that Verge created to solve Neuro-patient wait-times for healthcare being human trials, machine learning, and in-house drug trials. This is called the ConVerge platform. “We are the first AI-enabled drug discovery company to discover a novel target and develop it into a clinical candidate entirely in-house.”7   
-
- Click here to view ConVerge platform.   
+There are three solutions that Verge created to solve Neuro-patient wait-times for healthcare being human trials, machine learning, and in-house drug trials. This is called the ConVerge platform. “We are the first AI-enabled drug discovery company to discover a novel target and develop it into a clinical candidate entirely in-house.” [Click here to view ConVerge platform.]( https://www.vergegenomics.com/approach)  
 
  
 
-In-house drug trials allows companies to quickly adjust formulas, follow regulatory restrictions more closely, and lower overall cost of trials (including production, overhead, funding, and staffing). A case study done by Chilengi R, Ogetii G, Lang T.  (2010) finds that in-house drug trials are the answer to extensive time, increasing costs, and regulatory issues.  Click here to view case study. 
+In-house drug trials allows companies to quickly adjust formulas, follow regulatory restrictions more closely, and lower overall cost of trials (including production, overhead, funding, and staffing). A case study done by Chilengi R, Ogetii G, Lang T.(2010) finds that in-house drug trials are the answer to extensive time, increasing costs, and regulatory issues.  [Click here to view case study.]( https://www.webmedcentral.com/article_view/891)
 
  
 
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?  
 
-There is a growing market for helping patients with no cure for neurological progressive diseases. The family is pressed with the degenerative symptoms and progression of lessened health during the later stages. The American Brain Foundation finds an approximately $800 billion annually cost in major neurologic disorders in the United States (including Alzheimer’s and dementia as largest findings). Click here to view ABF article.This finding is predicted to grow as the larger generation group of baby-boomers reaches the age of which onset symptoms appear.  
+There is a growing market for helping patients with no cure for neurological progressive diseases. The family is pressed with the degenerative symptoms and progression of lessened health during the later stages. The American Brain Foundation finds an approximately $800 billion annually cost in major neurologic disorders in the United States (including Alzheimer’s and dementia as largest findings). [Click here to view ABF article.](https://www.americanbrainfoundation.org/the-burden-of-brain-disease/) This finding is predicted to grow as the larger generation group of baby-boomers reaches the age of which onset symptoms appear.  
+
 
  
+According to an article by the European Academy of Neurology 1 in 3 people will be affected by a neurological disorder in their lifetime, finding an increase of death from disorders increased 40% over the past 10 years. [Click here to view EAN article.](https://www.meningitis.org/welcome-to-our-newsroom/supporting-the-intersectoral-global-action-plan) This finding shows the growing need for treatments and the impact of this market is growing.  
 
-According to an article by the European Academy of Neurology 1 in 3 people will be affected by a neurological disorder in their lifetime, finding an increase of death from disorders increased 40% over the past 10 years. Click here to view EAN article. This finding shows the growing need for treatments and the impact of this market is growing.  
+This market includes also many famous people that have been effected by degenerative diseases recently. Actors have been identified of Bruce Willis (frontotemporal dementia), Michael J.Fox (Parkinson's disease), and  Christina Applegate (multiple sclerosis) . [Click here to view Marca article.](https://www.marca.com/en/lifestyle/movies/2023/02/17/63efd7d8268e3e3b118b45e1.html)
+
 
   
 
@@ -88,7 +87,7 @@ According to an article by the European Academy of Neurology 1 in 3 people will 
 
  
 
-This company offers human trials (human brain tissue vs. Animal samples or cells). Human trials offer personalized drug formulas. This allows the drugs to work with the body's chemistry, pathways, and lessens the time of treatment. This allows for three times more effective drug trial results. Click here to view Verge’s trial information. 
+This company offers human trials (human brain tissue vs. Animal samples or cells). Human trials offer personalized drug formulas. This allows the drugs to work with the body's chemistry, pathways, and lessens the time of treatment. This allows for three times more effective drug trial results. [Click here to view Verge’s trial information.](https://www.vergegenomics.com/approach)
 
   
 
@@ -96,7 +95,7 @@ This company offers human trials (human brain tissue vs. Animal samples or cells
 
  
 
-Verge Genomics is advancing an innovative approach to identifying high-potential drug targets that are validated through artificial intelligence algorithms and a large library of human data,” said Michael Hutton, VP Neurodegeneration Research at Lilly. “This approach complements and enhances Lilly’s neuroscience portfolio and will help facilitate development of what we hope will be transformative new therapies for people with ALS.” Click here to read more on Verge’s human platform. 
+Verge Genomics is advancing an innovative approach to identifying high-potential drug targets that are validated through artificial intelligence algorithms and a large library of human data,” said Michael Hutton, VP Neurodegeneration Research at Lilly. “This approach complements and enhances Lilly’s neuroscience portfolio and will help facilitate development of what we hope will be transformative new therapies for people with ALS.” [Click here to read more on Verge’s All-in-human platform.]( https://www.vergegenomics.com/news-blog/verge-genomics-announces-three-year-collaboration-with-lilly-to-discover-and-develop-novel-treatments-using-its-ai-driven-all-in-human-platform)
 
   
 
@@ -106,9 +105,9 @@ Verge Genomics is advancing an innovative approach to identifying high-potential
 
 * What field is the company in?   
 
-Verge is a Biotechnology company in drug-discovery focused on neurodegenerative diseases. The five branches of biotechnology are human, environmental, industrial, animal and plant according to Iberdrola. Click here to learn more about Biotechnology through Iberdrola. 
+Verge is a Biotechnology company in drug-discovery focused on neurodegenerative diseases. The five branches of biotechnology are human, environmental, industrial, animal and plant according to Iberdrola. [Click here to learn more about Biotechnology through Iberdrola.]( https://www.iberdrola.com/innovation/what-is-biotechnology)
 
-Pessoa (2023) writes on this topic of neurodegenerative diseases are a group of disorders characterized by the progressive loss of function and death of nerve cells in the brain and spinal cord. Some of the most common neurodegenerative diseases include Alzheimer's disease, Parkinson's disease, and Amyotrophic Lateral Sclerosis (ALS). Click here to view topic article.  
+Pessoa (2023) writes on this topic of neurodegenerative diseases are a group of disorders characterized by the progressive loss of function and death of nerve cells in the brain and spinal cord. Some of the most common neurodegenerative diseases include Alzheimer's disease, Parkinson's disease, and Amyotrophic Lateral Sclerosis (ALS). [Click here to view topic article.](https://www.linkedin.com/pulse/top-10-biotech-companies-working-neurodegenerative-diseases-pessoa/)
 
  
 
@@ -116,17 +115,18 @@ Pessoa (2023) writes on this topic of neurodegenerative diseases are a group of 
 
 * What have been the major trends and innovations of this field over the last 5&ndash;10 years?  
 
-Healthcare is moving towards a more patient-centered focus.  Creating larger amounts of data and healthcare networks/teams develops a great focus on the patients with a holistic approach. According to an article in BMC Health Services (2014) found that three essential components for patient centered care is communication (sharing information, compassions, and patient needs), partnerships (families, patients, care partners,) and health promotion (case management and efficient use of resources. Click here to view BMC article.  
+Healthcare is moving towards a more patient-centered focus.  Creating larger amounts of data and healthcare networks/teams develops a great focus on the patients with a holistic approach. According to an article in BMC Health Services (2014) found that three essential components for patient centered care is communication (sharing information, compassions, and patient needs), partnerships (families, patients, care partners,) and health promotion (case management and efficient use of resources. [Click here to view BMC article.](https://bmchealthservres.biomedcentral.com/articles/10.1186/1472-6963-14-271) 
 
   
 
 * What are the other major companies in this field?  
 
-Biogen- is creating four main drug modalities: small molecule therapeutics, protein therapeutics (for example, monoclonal antibodies), antisense oligonucleotide technologies and gene therapy.17 This diverse creation allows for individual pathways for drugs to have the maximum effect in ways that work well for individuals.  Click here for Biogen website.  
+Biogen- is creating four main drug modalities: small molecule therapeutics, protein therapeutics (for example, monoclonal antibodies), antisense oligonucleotide technologies and gene therapy.17 This diverse creation allows for individual pathways for drugs to have the maximum effect in ways that work well for individuals.  [Click here for Biogen website.]
+(https://www.biogen.com/disease-areas.html)
 
-Neuralstem Inc.- Neuralstem (NASDAQ: CUR) is a biopharmaceutical company researching and developing novel treatments for nervous system diseases based on our neural stem cell technology. This company utilizes its diverse executive team with expertise in immuno-oncology, pharmaceutical development, and biotechnology. Click here to see Neuralstem website. 
+Neuralstem Inc.- Neuralstem (NASDAQ: CUR) is a biopharmaceutical company researching and developing novel treatments for nervous system diseases based on our neural stem cell technology. This company utilizes its diverse executive team with expertise in immuno-oncology, pharmaceutical development, and biotechnology. [Click here to see Neuralstem website.](https://www.neuralstem.com/)
 
- Mitsubishi Tanabe Pharma – Focuses on treating the end stages of neurodegenerative diseases and takes on the challenge of difficult to treat cases. For 300 years this company has helped many individuals create healthier lives though pharmaceutical advancements. This team focuses on individual cases and measures success in patient success.  This company offers medication in liquids, films, and IV infusions. Click here to see Mitsubishi website. 
+ Mitsubishi Tanabe Pharma – Focuses on treating the end stages of neurodegenerative diseases and takes on the challenge of difficult to treat cases. For 300 years this company has helped many individuals create healthier lives though pharmaceutical advancements. This team focuses on individual cases and measures success in patient success.  This company offers medication in liquids, films, and IV infusions. [Click here to see Mitsubishi website.]( https://www.mt-pharma-america.com/)
 
  
 
@@ -136,7 +136,7 @@ Neuralstem Inc.- Neuralstem (NASDAQ: CUR) is a biopharmaceutical company researc
 
 * What has been the business impact of this company so far?  
 
-This company is just in the start-up phase of business and states, "We are one of the first AI-enabled drug discovery companies to discover a novel target and internally develop a proprietary clinical candidate entirely using our proprietary platform. We achieved this in just four years.” Click here to view Approach-Verge Genomics. 
+This company is just in the start-up phase of business and states, "We are one of the first AI-enabled drug discovery companies to discover a novel target and internally develop a proprietary clinical candidate entirely using our proprietary platform. We achieved this in just four years.” [Click here to view Approach-Verge Genomics.]( https://www.vergegenomics.com/approach)
 
    
 
@@ -150,27 +150,30 @@ Using 3d printers to create trial drugs (films, oral deconsecrating tablets (ODT
 
 * Why do you think that offering this product or service would benefit the company?  
 
-Quicker absorption of medications, faster dosing adjustments,  and trial noting are all benefits to creating trial drugs by 3D printing.  An interview with Medical Device Network (MDN) and CEO-Susan Lang (XIL Health) discusses her companies new 3D printed drug for seizures clearing market from the FDA stating that the future of 3D printing can solve multiple issues with small batch creating being supply shortage ( being able to locally print medications), limiting waste ( no waste created from 3D printing), personalizing medication to genetics (treats rare diseases), missing doses or swallowing issues (common in children, ill, and elderly patients), and even solve global access issues world-wide ( access to drugs,  religion restrictions on shots, clean water access, and new way to deliver meds for infectious diseases).   Click here to view MDN interview with Susan Lang . 
+Quicker absorption of medications, faster dosing adjustments,  and trial noting are all benefits to creating trial drugs by 3D printing.  An interview with Medical Device Network (MDN) and CEO-Susan Lang (XIL Health) discusses her companies new 3D printed drug for seizures clearing market from the FDA stating that the future of 3D printing can solve multiple issues with small batch creating being supply shortage ( being able to locally print medications), limiting waste ( no waste created from 3D printing), personalizing medication to genetics (treats rare diseases), missing doses or swallowing issues (common in children, ill, and elderly patients), and even solve global access issues world-wide ( access to drugs,  religion restrictions on shots, clean water access, and new way to deliver meds for infectious diseases).[Click here to view MDN interview with Susan Lang.](https://www.medicaldevice-network.com/features/3d-printing-in-drug-manufacturing-unlocking-future-possibilities/?cf-view) 
 
 * Why are these technologies appropriate for your solution?  
 
-Seeing that the FDA has already cleared a medication created by a 3D printer, this option could help patients that have specific genetic needs, difficultly remembering to take pills, have trouble swallowing pills, or find that access due to high cost could be solved by adapting this technology.   
+Seeing that the FDA has already cleared a medication created by a 3D printer, this option could help patients that have specific genetic needs( small batch personally modified medication), difficultly remembering to take pills/have trouble swallowing pills (common in elderly patients), or find that access due to high cost/limited resources could be solved by adapting this technology.   
 
- 
 
-https://www.linkedin.com/company/verge-genomics/ 
 
- https://www.vergegenomics.com/approach 
 
-https://www.biopharmadive.com/news/alice-zhang-verge-founder-biotechs-CEOs/634836/  
+ Reference List 
 
-Alice Zhang, CEO & Co-founder of Verge Genomics, Recognized Today by Both Fortune and Fierce Biotech as a Pioneer in AI-Driven Drug Discovery | Business Wire  
+1. https://www.linkedin.com/company/verge-genomics/ 
 
-https://www.vergegenomics.com/about  
+2. https://www.vergegenomics.com/approach 
 
-What Will Be the Most Costly Medical Conditions In 10 Years? 	(managedhealthcareexecutive.com) 
+3. https://www.biopharmadive.com/news/alice-zhang-verge-founder-biotechs-CEOs/634836/  
 
- Medicines for the Mind: Policy-Based ``Pull'' Incentives for Creating Breakthrough CNS Drugs (cell.com) 
+4. Alice Zhang, CEO & Co-founder of Verge Genomics, Recognized Today by Both Fortune and Fierce Biotech as a Pioneer in AI-Driven Drug Discovery | Business Wire  
+
+5. https://www.vergegenomics.com/about  
+
+6. What Will Be the Most Costly Medical Conditions In 10 Years? 	(managedhealthcareexecutive.com) 
+
+7. Medicines for the Mind: Policy-Based ``Pull'' Incentives for Creating Breakthrough CNS Drugs (cell.com) 
 
 8. https://www.biospace.com/employer/1925910/verge-genomics/  
 
@@ -182,27 +185,29 @@ What Will Be the Most Costly Medical Conditions In 10 Years? 	(managedhealthcare
 
 12. The Burden of Brain Disease | American Brain Foundation 
 
-13. Neurological disorders become a major global health priority | Meningitis Research 	Foundation 
+13. Neurological disorders become a major global health priority | Meningitis Research 	Foundation
 
-14. Approach — Verge Genomics 
+14. https://www.marca.com/en/lifestyle/movies/2023/02/17/63efd7d8268e3e3b118b45e1.html
 
-15. https://www.vergegenomics.com/news-blog/verge-genomics-announces-three-year-collaboration-with-lilly-to-discover-and-develop-novel-treatments-using-its-ai-driven-all-in-human-platform 
+15. Approach — Verge Genomics 
 
-16. https://www.iberdrola.com/innovation/what-is-biotechnology 	 
+16. https://www.vergegenomics.com/news-blog/verge-genomics-announces-three-year-collaboration-with-lilly-to-discover-and-develop-novel-treatments-using-its-ai-driven-all-in-human-platform 
 
-17. https://www.linkedin.com/pulse/top-10-biotech-companies-working-neurodegenerative-diseases-pessoa/  
+17. https://www.iberdrola.com/innovation/what-is-biotechnology 	 
 
-18. Constand, M.K., MacDermid, J.C., Dal Bello-Haas, V. et al. Scoping review of patient-centered care approaches in healthcare. BMC Health Serv Res 14, 271 (2014). https://doi.org/10.1186/1472-6963-14-271  
+18. https://www.linkedin.com/pulse/top-10-biotech-companies-working-neurodegenerative-diseases-pessoa/  
 
-19. https://www.biogen.com/disease-areas.html  
+19. Constand, M.K., MacDermid, J.C., Dal Bello-Haas, V. et al. Scoping review of patient-centered care approaches in healthcare. BMC Health Serv Res 14, 271 (2014). https://doi.org/10.1186/1472-6963-14-271  
 
-20. https://www.neuralstem.com 
+20. https://www.biogen.com/disease-areas.html  
 
-21. Explore Our Treatments - Mitsubishi Tanabe Pharma America (mt-pharma-america.com)  
+21. https://www.neuralstem.com 
 
-22. https://www.vergegenomics.com/approach 
+22. Explore Our Treatments - Mitsubishi Tanabe Pharma America (mt-pharma-america.com)  
 
-https://www.medicaldevice-network.com/features/3d-printing-in-drug-manufacturing-unlocking-future-possibilities/?cf-view 
+23. https://www.vergegenomics.com/approach 
+
+24. https://www.medicaldevice-network.com/features/3d-printing-in-drug-manufacturing-unlocking-future-possibilities/?cf-view 
 
  
 
