@@ -159,7 +159,7 @@ Seeing that the FDA has already cleared a medication created by a 3D printer, th
 
 
 
- Reference List 
+## Reference Links List 
 
 1. https://www.linkedin.com/company/verge-genomics/ 
 
@@ -167,29 +167,29 @@ Seeing that the FDA has already cleared a medication created by a 3D printer, th
 
 3. https://www.biopharmadive.com/news/alice-zhang-verge-founder-biotechs-CEOs/634836/  
 
-4. Alice Zhang, CEO & Co-founder of Verge Genomics, Recognized Today by Both Fortune and Fierce Biotech as a Pioneer in AI-Driven Drug Discovery | Business Wire  
+4. https://www.businesswire.com/news/home/20221114005218/en/Alice-Zhang-CEO-Co-founder-of-Verge-Genomics-Recognized-Today-by-Both-Fortune-and-Fierce-Biotech-as-a-Pioneer-in-AI-Driven-Drug-Discovery
 
 5. https://www.vergegenomics.com/about  
 
-6. What Will Be the Most Costly Medical Conditions In 10 Years? 	(managedhealthcareexecutive.com) 
+6. https://www.managedhealthcareexecutive.com/view/what-will-be-most-costly-medical-conditions-10-years
 
-7. Medicines for the Mind: Policy-Based ``Pull'' Incentives for Creating Breakthrough CNS Drugs (cell.com) 
+7. https://www.cell.com/neuron/pdf/S0896-6273(14)00947-7.pdf
 
 8. https://www.biospace.com/employer/1925910/verge-genomics/  
 
 9.  https://www.vergegenomics.com/partnership  
 
-10. Approach — Verge Genomics 
+10. https://www.vergegenomics.com/approach 
 
-11. WebmedCentral.com :: A Sensible Approach To Monitoring Trials: Finding Effective Solutions 	In-house 
+11. https://www.webmedcentral.com/article_view/891
 
-12. The Burden of Brain Disease | American Brain Foundation 
+12. https://www.americanbrainfoundation.org/the-burden-of-brain-disease/
 
-13. Neurological disorders become a major global health priority | Meningitis Research 	Foundation
+13. https://www.meningitis.org/welcome-to-our-newsroom/supporting-the-intersectoral-global-action-plan
 
 14. https://www.marca.com/en/lifestyle/movies/2023/02/17/63efd7d8268e3e3b118b45e1.html
 
-15. Approach — Verge Genomics 
+15.  https://www.vergegenomics.com/approach 
 
 16. https://www.vergegenomics.com/news-blog/verge-genomics-announces-three-year-collaboration-with-lilly-to-discover-and-develop-novel-treatments-using-its-ai-driven-all-in-human-platform 
 
@@ -197,13 +197,13 @@ Seeing that the FDA has already cleared a medication created by a 3D printer, th
 
 18. https://www.linkedin.com/pulse/top-10-biotech-companies-working-neurodegenerative-diseases-pessoa/  
 
-19. Constand, M.K., MacDermid, J.C., Dal Bello-Haas, V. et al. Scoping review of patient-centered care approaches in healthcare. BMC Health Serv Res 14, 271 (2014). https://doi.org/10.1186/1472-6963-14-271  
+19. https://doi.org/10.1186/1472-6963-14-271  
 
 20. https://www.biogen.com/disease-areas.html  
 
 21. https://www.neuralstem.com 
 
-22. Explore Our Treatments - Mitsubishi Tanabe Pharma America (mt-pharma-america.com)  
+22. https://www.mt-pharma-america.com/
 
 23. https://www.vergegenomics.com/approach 
 
